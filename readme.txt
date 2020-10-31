@@ -20,3 +20,6 @@ m5
 goimports -w module5_code.go
 
 m6
+
+m7
+go generate module7.go
