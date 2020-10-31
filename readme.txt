@@ -18,3 +18,5 @@ go get github.com/codemodus/kace
 
 m5
 goimports -w module5_code.go
+
+m6
